@@ -7,3 +7,5 @@
 - [X] Footer
 - [X] Social Media Icons
 - [ ] Work History
+
+*AK: Taken fromhttps://github.com/sirkiraz/PersonelWebsite/tree/main
